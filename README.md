@@ -1,4 +1,4 @@
-### Hi👋, I'm Dharshini
+### 👋Hi, I'm Dharshini Balasundaram
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech </br>
 👩🏻‍🎓 Studied [Electrical & Electronics Engineering](https://avsenggcollege.ac.in/) affiliated to Anna University,Chennai, India </br>
