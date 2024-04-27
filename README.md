@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech </br>
 👩🏻‍🎓 Studied [Electrical & Electronics Engineering](https://avsenggcollege.ac.in/) affiliated to Anna University,Chennai, India </br>
-🌷 #learninginpublic [My Digital Garden](https://dharshinibalasundaram.notion.site/My-Digital-Garden-afd12f4bde404b0d93d23dc30d5e074e)</br>
+🌷 #learninginpublic [My Digital Garden](https://dharshinibalasundaram.notion.site/My-Digital-Garden-bb2eab47d1714aeaa97d0a06aae789b9)</br>
 💭 Currently in progress with web-development, data analytics and [dataVizz](https://pudding.cool/2018/08/pockets/)!
 
 # 💻 Tech Stack:
