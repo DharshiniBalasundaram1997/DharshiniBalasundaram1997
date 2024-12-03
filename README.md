@@ -1,7 +1,8 @@
 # 👋Hi, I'm Dharshini Balasundaram <img src="https://raw.githubusercontent.com/M0nica/M0nica/main/octomonica/m0nica-octocat-rotating.gif" alt="drawing" style="width:100px;"/>
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech </br>
 👩🏻‍🎓 Studied [Electrical & Electronics Engineering](https://avsenggcollege.ac.in/) affiliated to Anna University,Chennai, India </br>
-🌷 #learninginpublic [My Digital Garden](https://dharshinibalasundaram.notion.site/My-Digital-Garden-bb2eab47d1714aeaa97d0a06aae789b9)</br>
+<!--
+🌷 #learninginpublic [My Digital Garden](https://dharshinibalasundaram.notion.site/My-Digital-Garden-bb2eab47d1714aeaa97d0a06aae789b9)</br>-->
 💭 Currently in progress with web-development, data analytics and [dataVizz](https://pudding.cool/2018/08/pockets/)! 
 <!--To add Gifs-->
 ![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif)
