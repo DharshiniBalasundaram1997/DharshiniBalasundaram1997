@@ -13,10 +13,11 @@
 ## 📊 GitHub Stats:
 ![DharshiniBalasundaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharshinibalasundaram1997&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DharshiniBalasundaram1997&theme=dark&hide_border=false)<br/>
+
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DharshiniBalasundaram1997&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br/>
-![](https://github.com/DharshiniBalasundaram1997/api/top-langs/?username=DharshiniBalasundaram1997&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br/>
+<br/> -->
+
 
 ## 🌐 Socials:
 <!--To add YouTube Card
