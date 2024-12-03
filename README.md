@@ -13,8 +13,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DharshiniBalasundaram1997&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DharshiniBalasundaram1997&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!--
 ## Project NewsLetters:
-27April2024 -> [Project NewsLetter](https://infograph.venngage.com/pl/xZYeHCfL4EQ)
+27April2024 -> [Project NewsLetter](https://infograph.venngage.com/pl/xZYeHCfL4EQ)-->
 
 ## 🌐 Socials:
 <!--To add YouTube Card
