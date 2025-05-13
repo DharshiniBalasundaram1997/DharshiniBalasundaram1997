@@ -2,11 +2,11 @@
 
 👩🏻‍💻 Software Engineer sharing my journey and learnings in tech  
 👩🏻‍🎓 Graduated in [Electrical & Electronics Engineering](https://avsenggcollege.ac.in/) from Anna University, Chennai, India  
-💭 Currently exploring Data Science at GUVI- IITM ![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif)
+💭 Currently exploring Data Science at GUVI- IITM 
 <!--data analytics, and [Data Visualization](https://pudding.cool/2018/08/pockets/)-->
 
 <!-- Designer GIF -->
-
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="300" alt="Designer at work"/>
 
 ---
 
