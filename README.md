@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dharshini Balasundaram
+# 👋 Hi, I'm Dharshini Balasundaram  <!--<img src="https://raw.githubusercontent.com/M0nica/M0nica/main/octomonica/m0nica-octocat-rotating.gif" alt="drawing" style="width:100px;"/> -->
 
 👩🏻‍💻 Software Engineer sharing my journey and learnings in tech  
 👩🏻‍🎓 Graduated in [Electrical & Electronics Engineering](https://avsenggcollege.ac.in/) from Anna University, Chennai, India  
