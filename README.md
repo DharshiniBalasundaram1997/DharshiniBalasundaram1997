@@ -1,40 +1,66 @@
-# 👋Hi, I'm Dharshini Balasundaram <!--<img src="https://raw.githubusercontent.com/M0nica/M0nica/main/octomonica/m0nica-octocat-rotating.gif" alt="drawing" style="width:100px;"/> -->
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech </br>
-👩🏻‍🎓 Studied [Electrical & Electronics Engineering](https://avsenggcollege.ac.in/) affiliated to Anna University,Chennai, India </br>
-<!--
-🌷 #learninginpublic [My Digital Garden](https://dharshinibalasundaram.notion.site/My-Digital-Garden-bb2eab47d1714aeaa97d0a06aae789b9)</br>-->
-💭 Currently in progress with web-development, data analytics and [dataVizz](https://pudding.cool/2018/08/pockets/)! 
+# 👋 Hi, I'm Dharshini Balasundaram
 
-<!--To add Gifs-->
+👩🏻‍💻 Software Engineer sharing my journey and learnings in tech  
+👩🏻‍🎓 Graduated in [Electrical & Electronics Engineering](https://avsenggcollege.ac.in/) from Anna University, Chennai, India  
+💭 Currently exploring web development, data analytics, and [Data Visualization](https://pudding.cool/2018/08/pockets/)
+
+<!-- Designer GIF -->
 ![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif)
 
+---
+
 ## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LeanFT](https://img.shields.io/badge/leanft-%23F24E1E.svg?style=for-the-badge&logo=leanft&logoColor=%23F7DF1E) ![PowerBI](https://img.shields.io/badge/PowerBI-%23F24H1E.svg?style=for-the-badge&logo=PowerBI&logoColor=white) ![TABLEAU](https://img.shields.io/badge/TABLEAU-%23R24H1E.svg?style=for-the-badge&logo=TABLEAU&logoColor=white)
+
+### 🧑‍💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![LeanFT](https://img.shields.io/badge/LeanFT-%23FF6F61.svg?style=for-the-badge&logo=testcafe&logoColor=white)
+
+### 🧮 Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23E38C00.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 📊 Data Science & AI
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2345589A.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-%239C27B0.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23009688.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%2300BCD4.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-%23448AFF.svg?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats:
-![DharshiniBalasundaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharshinibalasundaram1997&show_icons=true&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DharshiniBalasundaram1997&theme=dark&hide_border=false)<br/>
 
-<!--
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DharshiniBalasundaram1997&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br/> -->
+![DharshiniBalasundaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharshinibalasundaram1997&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DharshiniBalasundaram1997&theme=dark&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharshiniBalasundaram1997&layout=compact&theme=radical)
 
+---
 
-## 🌐 Socials:
-<!--To add YouTube Card
-(https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_titla_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title">)
+## 🌐 Connect with me:
 
-In Console: Unix Time
-let date_string = "27 Apr 2024";
-let date = new Date(date_string);
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LearnWithDharshiniBalu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharshinibalasundaram)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Notion&logoColor=white)](https://dharshinibalasundaram.notion.site/)
 
-let timestamp = Math.floor(date.getTime() / 1000);
-console.log(timestamp);
--->
+---
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LearnWithDharshiniBalu) 
+## 📹 Latest YouTube Video
 
-[![Basic HTML Form Page](https://ytcards.demolab.com/?id=10D2F7qCTh0&title=Basic+HTML+Form+Page&lang=en&timestamp=1714156200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_titla_lines=1&width=250&border_radius=5&duration=59 "Basic HTML Form Page")](https://youtu.be/10D2F7qCTh0?si=ulDn1Y-jKn6bCHOp)
+[![Basic HTML Form Page](https://ytcards.demolab.com/?id=10D2F7qCTh0&title=Basic+HTML+Form+Page&lang=en&timestamp=1714156200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_titla_lines=1&width=300&border_radius=5&duration=59 "Basic HTML Form Page")](https://youtu.be/10D2F7qCTh0?si=ulDn1Y-jKn6bCHOp)
 
-<!--[![](https://visitcount.itsvg.in/api?id=DharshiniBalasundaram1997&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
