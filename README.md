@@ -10,6 +10,7 @@
 ---
 
 ## 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### 🧑‍💻 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,12 +32,15 @@
 
 ### 📊 Data Science & AI
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2345589A.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-%239C27B0.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23009688.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%2300BCD4.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-%23448AFF.svg?style=for-the-badge&logo=tableau&logoColor=white)
