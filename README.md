@@ -55,12 +55,12 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LearnWithDharshiniBalu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharshinibalasundaram)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Notion&logoColor=white)](https://dharshinibalasundaram.notion.site/)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://dharshinibalasundaram.medium.com/)
 
 ---
-
+<!-- 
 ## 📹 Latest YouTube Video
 
 [![Basic HTML Form Page](https://ytcards.demolab.com/?id=10D2F7qCTh0&title=Basic+HTML+Form+Page&lang=en&timestamp=1714156200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_titla_lines=1&width=300&border_radius=5&duration=59 "Basic HTML Form Page")](https://youtu.be/10D2F7qCTh0?si=ulDn1Y-jKn6bCHOp)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
