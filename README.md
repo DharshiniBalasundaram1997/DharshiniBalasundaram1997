@@ -10,8 +10,6 @@
 ---
 
 ## 💻 Tech Stack:
-## 💻 Tech Stack:
-
 ### 🧑‍💻 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,15 +46,19 @@
 ---
 
 ## 📊 GitHub Stats:
-
 ![DharshiniBalasundaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharshinibalasundaram1997&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DharshiniBalasundaram1997&theme=dark&hide_border=false)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharshiniBalasundaram1997&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect with me:
+## 📁 Projects
 
+[![My Projects](https://img.shields.io/badge/View%20My%20Projects-%23000000.svg?style=for-the-badge&logo=Notion&logoColor=white)](https://dharshinibalasundaram.notion.site/My-Projects-3dc431a9abcb40778e3c2025f0e401cd?pvs=4)
+
+---
+
+## 🌐 Connect with me:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LearnWithDharshiniBalu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharshinibalasundaram)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://dharshinibalasundaram.medium.com/)
