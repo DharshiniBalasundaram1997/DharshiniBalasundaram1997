@@ -2,7 +2,8 @@
 
 👩🏻‍💻 Software Engineer sharing my journey and learnings in tech  
 👩🏻‍🎓 Graduated in [Electrical & Electronics Engineering](https://avsenggcollege.ac.in/) from Anna University, Chennai, India  
-💭 Currently exploring web development, data analytics, and [Data Visualization](https://pudding.cool/2018/08/pockets/)
+💭 Currently exploring Data Science at GUVI- IITM
+<!--data analytics, and [Data Visualization](https://pudding.cool/2018/08/pockets/)-->
 
 <!-- Designer GIF -->
 ![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif)
