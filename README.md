@@ -6,7 +6,7 @@
 <!--data analytics, and [Data Visualization](https://pudding.cool/2018/08/pockets/)-->
 
 <!-- Designer GIF -->
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="300" alt="Designer at work"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="100" alt="Designer at work"/>
 
 ---
 
