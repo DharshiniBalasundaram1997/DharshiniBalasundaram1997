@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dharshini Balasundaram  <!--<img src="https://raw.githubusercontent.com/M0nica/M0nica/main/octomonica/m0nica-octocat-rotating.gif" alt="drawing" style="width:100px;"/> -->
 
-👩🏻‍💻 Software Engineer sharing my learning journey in tech
+👩🏻‍💻 Software Engineer sharing my learning journey in tech.<\br>
 👩🏻‍🎓 Graduated in [Electrical & Electronics Engineering](https://avsenggcollege.ac.in/) Salem, India  
 💭 Currently exploring Data Science and Data Analytics. Completed : Data Analytics course from TechTip24 & Data Science program at GUVI–IITM.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="60" alt="Designer at work"/>
 
