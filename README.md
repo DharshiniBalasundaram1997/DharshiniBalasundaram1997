@@ -23,6 +23,8 @@
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%2300BCD4.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-%23448AFF.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![NLP](https://img.shields.io/badge/Nlp-%23FF6F00.svg?style=for-the-badge&logo=nlp&logoColor=white)
+![Postgresql](https://img.shields.io/badge/Postgresql-%23150458.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧑‍💻 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
