@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Software Engineer sharing my learning journey in tech.<br>
 👩🏻‍🎓 Graduated in [Electrical & Electronics Engineering](https://avsenggcollege.ac.in/) Salem, India  
-💭 Currently exploring Data Science and Data Analytics. <br> Completed : Data Analytics course from TechTip24 & Data Science program at GUVI–IITM.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="60" alt="Designer at work"/>
+💭 Transitioning into Data Science and Data Analytics. <br> Completed : Data Analytics course from TechTip24 & Data Science program at GUVI–IITM.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="60" alt="Designer at work"/>
 
 <!--data analytics, and [Data Visualization](https://pudding.cool/2018/08/pockets/)-->
 
