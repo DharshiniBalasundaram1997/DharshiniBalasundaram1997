@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Dharshini Balasundaram  
 
-💼 **Professional Summary**  
-Experienced Software Engineer with **5.1 years in the IT industry**, now specializing in **Data Science and Analytics**. Skilled in **Python, SQL, Machine Learning, and Deep Learning** with hands-on expertise in **data preprocessing, model development, and dashboard creation**. Certified in **Data Analytics (TechTip24)** and **Master Data Science program (GUVI–IITM)**, with a strong commitment to applying **data-driven solutions for business growth**.  
+ **Professional Summary** 
+👩🏻‍💻 Software Engineer turned Data Science Enthusiast 
+💼Experienced Software Engineer with **5.1 years in the IT industry**, now specializing in **Data Science and Analytics**. 
+Skilled in **Python, SQL, Machine Learning, and Deep Learning** with hands-on expertise in **data preprocessing, model development, and dashboard creation**. 
+Certified in **Data Analytics (TechTip24)** and **Master Data Science program (GUVI–IITM)**, with a strong commitment to applying **data-driven solutions for business growth**.  
 
-👩🏻‍💻 Software Engineer turned Data Science Enthusiast  
+ 
 👩🏻‍🎓 EEE Graduate from [AVS Engineering College](https://avsenggcollege.ac.in/) — Salem, India  
 📊 Transitioning into **Data Science & Analytics** with focus on AI-driven roles  
-📹 Content Creator at [LearnWithDharshiniBalu](https://youtube.com/@LearnWithDharshiniBalu)  
 
 ---
 
