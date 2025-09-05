@@ -56,10 +56,6 @@
 ---
 
 ## 🚀 Featured Projects
-- [Customer Churn Prediction](#) → ML model to predict churn using classification techniques  
-- [Data Visualization Dashboard](#) → Interactive dashboard using Tableau & Power BI  
-- [Web Scraper in Python](#) → Automated data extraction pipeline  
-
 📁 [View More Projects](https://dharshinibalasundaram.notion.site/My-Projects-3dc431a9abcb40778e3c2025f0e401cd?pvs=4)
 
 ---
